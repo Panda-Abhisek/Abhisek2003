@@ -4,7 +4,7 @@ Hi 👋 I'm Abhisek Panda
 
 🌱 I’m currently learning docker and kubernetes.
 
-👯 I’m looking to opensource project.
+👯 I’m looking to OpenSource projects.
 
 💬 Ask me about OpenSource and DevOps.
 
